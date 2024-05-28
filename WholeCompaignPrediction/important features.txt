@@ -1,0 +1,1 @@
+['Budget','Clicks','Impr.','Avg. cost','Cost','Campaign type','Bid strategy type','Conv. value']
